@@ -5,6 +5,16 @@ Detect flood extents on Sentinel-1 satellite imagery using the [recommended meth
 
 ## Installation
 
+To create a new environment
+
+`poetry install`
+
+then activate the environment with
+
+`poetry shell`
+
+You can then install the flood mapping tool
+
 `pip install flood-mapper`
 
 
